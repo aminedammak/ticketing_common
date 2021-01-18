@@ -11,3 +11,5 @@ const testColor: Color = {
 };
 
 console.log("color", testColor);
+
+export default testColor;
